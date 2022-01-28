@@ -1,0 +1,10 @@
+.app {
+    margin-top: 2rem;
+    background-color: darken($white, 2%);
+    border-radius: 10px;
+    padding-bottom: 1rem;
+    h2 {
+        margin: 0;
+        color: darken($orange, 4%);
+    }
+}
